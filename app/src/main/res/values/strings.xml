@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">WakeMeUp</string>
-    <string name="hello_world">Greeting Alphan!</string>
+    <string name="hello_world">Greeting Alphan and MCan!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
